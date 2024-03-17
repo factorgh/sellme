@@ -40,7 +40,7 @@ const data = {
             price:105,
             stockInHand: 10,
             brand:"Addidas",
-            image:"/images/image3.jpg",
+            image:"/images/image4.jpg",
             numReiviews:10,
             rating:4.5,
         },
